@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Plugins/MMD4MecanimBulletPhysics 2.75/iOS/libBulletPhysics.a
+Assets/Plugins/MMD4MecanimBulletPhysics 2.75/iOS/libBulletPhysics.a.meta
+Assets/Plugins/MMD4MecanimBulletPhysics/iOS/libBulletPhysics.a
+Assets/Plugins/MMD4MecanimBulletPhysics/iOS/libBulletPhysics.a.meta
